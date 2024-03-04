@@ -1,2 +1,5 @@
 # run/ directory - where loose-file builds are built and run
 run/
+
+# macOS directory artifacts
+.DS_Store
